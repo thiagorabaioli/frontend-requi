@@ -6,5 +6,6 @@ export type ProductDTO = {
     description: string;
     price: number;
     imgUrl: string;
+    registerDate: string; // ✅ novo campo ISO 8601
     categories: CategoryDTO[];
 }
