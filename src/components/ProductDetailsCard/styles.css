@@ -32,3 +32,16 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.dsc-extra-info {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.date-input {
+    padding: 5px;
+    font-size: 14px;
+}
+
